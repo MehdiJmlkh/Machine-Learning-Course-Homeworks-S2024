@@ -27,8 +27,8 @@ A short description of each question is included below.
 ### Programming Section
 * Q6: Implementing parzen window density estimation from scratch
 * Q7: Classifying using the Parzen Window
-* Q8: Implementing Logistic Regression and K-Nearest Neighbors (KNN) classifiers from scratch, and use them to classify the Wheat Seeds dataset
-* Q9: Implementing Linear Regression from scratch, and using it to classify the Marketing Campaign dataset
+* Q8: Implementing Logistic Regression and K-Nearest Neighbors (KNN) classifiers from scratch, and use them to classify the `seeds.csv` dataset
+* Q9: Implementing Linear Regression from scratch, and using it to classify the `marketing_campaign.csv` dataset
 
 ## HW3 - Decision Tree & AdaBoost
 
@@ -38,9 +38,9 @@ A short description of each question is included below.
 * Q5: Decision tree and information gain
 
 ### Programming Section
-* Q3: classifying the Credit Scoring Sample dataset using a Random Forest and Bagging classifiers. Additionally, utilizing Bootstrap sampling to estimate the mean of customers' age
+* Q3: classifying the `credit_scoring_sample.csv` dataset using a Random Forest and Bagging classifiers. Additionally, utilizing Bootstrap sampling to estimate the mean of customers' age
 * Q4: Implementing AdaBoost classifier from scratch, and using it to classify the iris dataset
-* Q6: Implementing Decision Tree from scratch using ID3 algorithm, and use it to classify prison dataset
+* Q6: Implementing Decision Tree from scratch using ID3 algorithm, and use it to classify `prison_dataset.csv` dataset
 
 ## HW4 - Kernel Methods & Neural Network
 
@@ -67,14 +67,14 @@ A short description of each question is included below.
 ### Programming Section
 * Q5: Implementing Principal Component Analysis (PCA) from scratch, and using it to reduce the dimensionality of the fashion-MNIST dataset
 * Q6: GMM density estimation for the MNIST dataset
-* Q7: Clustering customers dataset using k-means algorithm. Also find the optimal value of k using different methods and score functions, such as:
+* Q7: Clustering the `customers_dataset.csv` dataset using the k-means algorithm. Also find the optimal value of k using different methods and score functions, such as:
     - K-means Distortion and Elbow Method
     - Silhouette Score
     - Davies-Bouldin Index
     - Calinski-Harabasz Index
     - Dunn Index
 ## How to Run
-Make a folder named `assets` in the root of each homework, download the necessary dataset that has been ignored, and run the code.
+Make a folder named `assets` in the root of each homework, download the necessary datasets that has been ignored, and run the code.
 
 ---
 For more information, please refer to the report of desired homework.
