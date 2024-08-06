@@ -1,5 +1,6 @@
 # Machine Learning Course HomeWorks 
 A short description of each question is included below.
+
 ## HW1 - Bayes Classifier & Parametric Density Estimation
 
 ### Theoretical Section
@@ -72,3 +73,8 @@ A short description of each question is included below.
     - Davies-Bouldin Index
     - Calinski-Harabasz Index
     - Dunn Index
+## How to Run
+Make a folder named `assets` in the root of each homework, download the necessary dataset that has been ignored, and run the code.
+
+---
+For more information, please refer to the report of desired homework.
