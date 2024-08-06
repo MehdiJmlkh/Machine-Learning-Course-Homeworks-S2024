@@ -1,4 +1,4 @@
-# Machine Learning Course HomeWorks 
+# Machine Learning Course Homeworks 
 A short description of each question is included below.
 
 ## HW1 - Bayes Classifier & Parametric Density Estimation
